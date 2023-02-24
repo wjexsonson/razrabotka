@@ -4,7 +4,6 @@ import android.util.Log;
 import android.os.Bundle;
 import android.widget.Toast;
 
-
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
     int duration = Toast.LENGTH_SHORT;
